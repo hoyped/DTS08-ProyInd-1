@@ -40,7 +40,7 @@ El análisis exploratorio de los datos *-(EDA, por sus siglas en inglés)-* es u
 
 Lo anterior fue desarrollado utilizando la libreria **pandas profiling** del lenguaje de desarrollo y programación **Python**
 
-**OJO IMAGEN4**
+![](https://github.com/hoyped/DTS08-ProyInd-1/blob/main/_src/04.png)
 
 **4. SISTEMA DE RECOMENDACIÓN**
 Se solicita realizar un modelo de machine learning para crear un sistema de recomendación de películas para usuarios, donde teniendo su identificación y dato de una película o serie, el sistema indique ***SI recomienda o NO*** dicho contenido para el usuario en cuestión.
@@ -49,7 +49,7 @@ En este punto es importante aclarar que las métricas de los módelos dieron res
 
 Lo anterior fue desarrollado utilizando la libreria **scikit learn** del lenguaje de desarrollo y programación de **Python**
 
-**OJO IMAGENES**
+![]()
 
 **5. VIDEO**
 En este se evidencia la ejecución del desarrollo **API** del punto dos (2), así como una explicación de los modelos de machine learning entrenados.
