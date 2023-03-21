@@ -22,7 +22,7 @@ Se proponen las siguientes moficiaciones en los datos:
 
 Lo anterior fue desarrollado mediante el motor de bases de datos **MySQL** y el IDE **Visual Studio Code** para el lenguaje de desarrollo y programación **Python**.
 
-![]()
+![](https://github.com/hoyped/DTS08-ProyInd-1/blob/main/_src/02.jpg)
 
 **2. DESARROLLO API**
 Disponibilizar la información de la empresa mediante el framework ***FastApi***, las consultas a consumirse por el usuario serán:
@@ -33,7 +33,7 @@ Disponibilizar la información de la empresa mediante el framework ***FastApi***
 
 Lo anterior fue desarrollado según solicitud en el framework de ***FastApi*** y disponibilizado para consumo general en ***render.com***
 
-**OJO IMAGEN3**
+![]()
 
 **3. ANÁLISIS EXPLORATORIO DE LOS DATOS**
 El análisis exploratorio de los datos *-(EDA, por sus siglas en inglés)-* es un punto fundamental en todo proyecto de análisis de datos. Al utilizar técnicas de visualización y análisis estadísticos, es posible identificar patrones y relaciones importantes en los datos, así como posibles problemas o fuentes de error. Estos hallazgos sirven para guiar el diseño e implementación de modelos de análisis más avanzados, ayudando a los analistas a tener una comprensión más profunda de los datos.
