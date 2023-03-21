@@ -63,7 +63,7 @@ https://drive.google.com/file/d/1CKfkQyh2gEcJIVFCWTfd_arpod9Eae5K/view?usp=share
 -   La calidad de los resultados depende en gran medida de la calidad de los datos utilziados para entrenar el modelo.
 -   La selección del algoritmo de aprendizaje automático adecuado es crucial para obtener resultados confiables.
 -   Los modelos de ML son altamente escalables y pueden manejar enormes cantidades de datos.
--   Interpretar los resultados obtenidos a través de modelos de ML es todo un desafio que requiere habilidades especialziadas.
+-   Interpretar los resultados obtenidos a través de modelos de ML es todo un desafio que requiere habilidades especializadas.
 
 
 ***MUCHAS GRACIAS***
