@@ -47,7 +47,7 @@ Se solicita realizar un modelo de machine learning para crear un sistema de reco
 En el desarrollo del presente punto se proponen tres (3) métodos de clasificación para obtener un modelo que nos brinde confianza en la predicción, dicho de este modo se trabajaran los siguientes: ***KNN - K Nearest Neighbors***, ***Random Forest Classifier*** y ***Cosine Similarity***.
 En este punto es importante aclarar que las métricas de los módelos dieron resultados muy disímiles, indicando que la configuración de las herramientas algorítmicas tiene importante incidencia en los resultados y confiabilidd de las predicciones.
 
-Lo anterior fue desarrollado utilizando la libreria **scikit learn** del lenguaje de desarrollo y programación de **Python**
+Lo anterior fue desarrollado utilizando la libreria **scikit learn** del lenguaje de desarrollo y programación **Python**
 
 ![](https://github.com/hoyped/DTS08-ProyInd-1/blob/main/_src/07.JPG)
 ![](https://github.com/hoyped/DTS08-ProyInd-1/blob/main/_src/08.JPG)
