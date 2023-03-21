@@ -8,7 +8,7 @@ Se seguirá un proceso de trabajo profundo y sistemático que involucra la recol
 
 El uso de técnicas y modelos de machine learning es muy útil en diversos campos, desde la predicción de una decisión de compra hasta el diagnóstico médico. En este proyecto, aplicaremos las técnicas de **KNN (K Nearest Neighbors), Random Forest Classifier y Cosine Similarity** para acercarnos a predecir si un usuario consumirá contenido audiovisual en plataformas de streaming con base en las puntuaciones históricas realizadas por otros usuarios a través del tiempo.
 
-**OJO IMAGEN 1**
+**OJO IMAGEN1**
 
 La propuesta de trabajo incluye los siguientes aspectos a desarrollar con miras a obtener un MVP (Minimum Viable Product), cabe anotar que los datasets para el desarrollo del presente estudio ya han sido proporcionados.
 
@@ -53,3 +53,16 @@ Lo anterior fue desarrollado utilizando la libreria **scikit learn** del lenguaj
 
 **5. VIDEO**
 En este se evidencia la ejecución del desarrollo **API** del punto dos (2), así como una explicación de los modelos de machine learning entrenados.
+Enlace al video:
+https://drive.google.com/file/d/1CKfkQyh2gEcJIVFCWTfd_arpod9Eae5K/view?usp=share_link
+
+
+**CONCLUSIONES**
+-   Los modelos de ML pueden ser muy efectivos para predecir resultados en gran variedad de problemas, desde decisión de compra hasta diagnóstico médico.
+-   La calidad de los resultados depende en gran medida de la calidad de los datos utilziados para entrenar el modelo.
+-   La selección del algoritmo de aprendizaje automático adecuado es crucial para obtener resultados confiables.
+-   Los modelos de ML son altamente escalables y pueden manejar enormes cantidades de datos.
+-   Interpretar los resultados obtenidos a través de modelos de ML es todo un desafio que requiere habilidades especialziadas.
+
+
+***MUCHAS GRACIAS***
