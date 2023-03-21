@@ -8,7 +8,7 @@ Se seguirá un proceso de trabajo profundo y sistemático que involucra la recol
 
 El uso de técnicas y modelos de machine learning es muy útil en diversos campos, desde la predicción de una decisión de compra hasta el diagnóstico médico. En este proyecto, aplicaremos las técnicas de **KNN (K Nearest Neighbors), Random Forest Classifier y Cosine Similarity** para acercarnos a predecir si un usuario consumirá contenido audiovisual en plataformas de streaming con base en las puntuaciones históricas realizadas por otros usuarios a través del tiempo.
 
-**OJO IMAGEN1**
+![](https://github.com/hoyped/DTS08-ProyInd-1/blob/main/_src/01.png)
 
 La propuesta de trabajo incluye los siguientes aspectos a desarrollar con miras a obtener un MVP (Minimum Viable Product), cabe anotar que los datasets para el desarrollo del presente estudio ya han sido proporcionados.
 
@@ -22,7 +22,7 @@ Se proponen las siguientes moficiaciones en los datos:
 
 Lo anterior fue desarrollado mediante el motor de bases de datos **MySQL** y el IDE **Visual Studio Code** para el lenguaje de desarrollo y programación **Python**.
 
-**OJO IMAGEN2**
+![]()
 
 **2. DESARROLLO API**
 Disponibilizar la información de la empresa mediante el framework ***FastApi***, las consultas a consumirse por el usuario serán:
