@@ -49,7 +49,8 @@ En este punto es importante aclarar que las métricas de los módelos dieron res
 
 Lo anterior fue desarrollado utilizando la libreria **scikit learn** del lenguaje de desarrollo y programación de **Python**
 
-![]()
+![](https://github.com/hoyped/DTS08-ProyInd-1/blob/main/_src/07.JPG)
+![](https://github.com/hoyped/DTS08-ProyInd-1/blob/main/_src/08.JPG)
 
 **5. VIDEO**
 En este se evidencia la ejecución del desarrollo **API** del punto dos (2), así como una explicación de los modelos de machine learning entrenados.
